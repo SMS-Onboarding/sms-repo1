@@ -1,0 +1,15 @@
+# Example CODEOWNERS file
+
+
+# Specific folder ownership
+frontend/   @SMS-Onboarding/frontend
+staticfiles/    @SMS-Onboarding/backend
+
+
+# Specific file ownership
+# README.md    @org/docs-team
+# Makefile     @org/devops-team
+
+# Ownership for all files of a certain type
+# *.js    @org/frontend-team
+# *.py    @org/python-team
