@@ -9,7 +9,7 @@ backend/ @SMS-Onboarding/backend
 
 
 # Specific file ownership
-# README.md    jsmoxon@gmail.com
+ README.md    jsmoxon@gmail.com
 CODEOWNERS     @jsmoxon
 
 # Ownership for all files of a certain type
