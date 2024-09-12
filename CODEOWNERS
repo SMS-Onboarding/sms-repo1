@@ -2,15 +2,26 @@
 
 
 # Specific folder ownership
-frontend/   @SMS-Onboarding/frontend @SMS-Onboarding/backend 
-static/    @SMS-Onboarding/frontend @jsmoxon
-backend/ @SMS-Onboarding/backend
+backend/ @SMS-Onboarding/backend #single team
+frontend/   @SMS-Onboarding/frontend @SMS-Onboarding/backend #multiteam
+static/    @SMS-Onboarding/frontend @jsmoxon #mixed
+
+# multi-member
+# mixed with email
+# path globbing
+# relative paths
+static/file1.js @SMS-Onboarding/frontend
+
+# absolute paths
+/static/style.css @SMS-Onboarding/
+
+# negative sub path
 
 
 
 # Specific file ownership
- README.md    jsmoxon@gmail.com
-CODEOWNERS     @jsmoxon
+README.md    jsmoxon@gmail.com #email
+CODEOWNERS     @jsmoxon 
 
 # Ownership for all files of a certain type
 # *.js    @SMS-Onboarding/frontend 
