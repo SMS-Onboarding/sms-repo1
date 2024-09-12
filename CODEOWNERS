@@ -11,6 +11,8 @@ frontend/auth/ @jsmoxon @hierbini
 
 # mixed with email
 # path globbing
+**/js @SMS-Onboarding/frontend
+
 # relative paths
 static/file1.js @SMS-Onboarding/frontend
 
