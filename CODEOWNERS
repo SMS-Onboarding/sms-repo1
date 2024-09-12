@@ -7,6 +7,8 @@ frontend/   @SMS-Onboarding/frontend @SMS-Onboarding/backend #multiteam
 static/    @SMS-Onboarding/frontend @jsmoxon #mixed
 
 # multi-member
+frontend/auth/ @jsmoxon @hierbini
+
 # mixed with email
 # path globbing
 # relative paths
@@ -22,7 +24,7 @@ static/file1.js @SMS-Onboarding/frontend
 # Specific file ownership
 README.md    jsmoxon@gmail.com #email
 CODEOWNERS     @jsmoxon 
-c
+
 # Ownership for all files of a certain type
 # *.js    @SMS-Onboarding/frontend 
 # *.py    @SMS-Onboarding/backend
