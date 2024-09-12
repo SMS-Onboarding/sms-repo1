@@ -13,7 +13,7 @@ static/    @SMS-Onboarding/frontend @jsmoxon #mixed
 static/file1.js @SMS-Onboarding/frontend
 
 # absolute paths
-/static/style.css @SMS-Onboarding/
+/static/style.css @SMS-Onboarding/frontend
 
 # negative sub path
 
@@ -22,7 +22,7 @@ static/file1.js @SMS-Onboarding/frontend
 # Specific file ownership
 README.md    jsmoxon@gmail.com #email
 CODEOWNERS     @jsmoxon 
-
+c
 # Ownership for all files of a certain type
 # *.js    @SMS-Onboarding/frontend 
 # *.py    @SMS-Onboarding/backend
