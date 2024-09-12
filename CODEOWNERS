@@ -2,14 +2,15 @@
 
 
 # Specific folder ownership
-frontend/   @SMS-Onboarding/frontend
-staticfiles/    @SMS-Onboarding/backend
+frontend/   @SMS-Onboarding/frontend @jsmoxon
+static/    @SMS-Onboarding/backend
+
 
 
 # Specific file ownership
-# README.md    @org/docs-team
-# Makefile     @org/devops-team
+# README.md    @jsmoxon
+CODEOWNERS     @jsmoxon
 
 # Ownership for all files of a certain type
-# *.js    @org/frontend-team
-# *.py    @org/python-team
+# *.js    @SMS-Onboarding/frontend 
+# *.py    @SMS-Onboarding/backend
