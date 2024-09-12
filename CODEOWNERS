@@ -2,13 +2,14 @@
 
 
 # Specific folder ownership
-frontend/   @SMS-Onboarding/frontend @jsmoxon
-static/    @SMS-Onboarding/backend
+frontend/   @SMS-Onboarding/frontend @SMS-Onboarding/backend 
+static/    @SMS-Onboarding/frontend @jsmoxon
+backend/ @SMS-Onboarding/backend
 
 
 
 # Specific file ownership
-# README.md    @jsmoxon
+# README.md    jsmoxon@gmail.com
 CODEOWNERS     @jsmoxon
 
 # Ownership for all files of a certain type
